@@ -4,6 +4,7 @@ This project focuses on analyzing Swiggy restaurant data to uncover trends relat
 ✅ Project Overview
 
 • Performed data cleaning and preprocessing
+
 • Handled missing values, duplicates, and formatted columns properly
 • Converted rating values like "4.1/5" to numeric form (e.g., 4.1)
 • Cleaned cost column by removing commas and converting to integers
